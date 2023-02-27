@@ -14,3 +14,25 @@ Using this information, he would like the following on a monthly basis:
 The data is supplied.
 
 # Total Orders per Month
+
+![1](https://user-images.githubusercontent.com/125029514/221515440-41f7e1bc-500d-4253-8fab-74084650c204.jpeg)
+
+# Number of orders delivered after the estimated delivery date given to the customer
+
+![2](https://user-images.githubusercontent.com/125029514/221515539-1717f31e-d077-4100-9bbc-4d8a8a1c78dc.jpeg)
+
+# Orders outstanding delivery
+
+![3](https://user-images.githubusercontent.com/125029514/221515592-2292f93a-54de-4b73-b334-2cc4835a978f.jpeg)
+
+![4](https://user-images.githubusercontent.com/125029514/221515624-2c0ec1fb-645e-4ff4-9605-a56cadd772a0.jpeg)
+
+![5](https://user-images.githubusercontent.com/125029514/221515649-4ac9924c-9954-4569-890e-48a6ee2a8ade.jpeg)
+
+![6](https://user-images.githubusercontent.com/125029514/221515670-7b98021c-868f-47fc-85b8-fff110d93c1f.jpeg)
+
+# Dashboard
+
+![Dashboard](https://user-images.githubusercontent.com/125029514/221515746-bb4d4e94-18d0-422c-af34-b0958bc04dfd.jpeg)
+
+
